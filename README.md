@@ -5,7 +5,7 @@ A full-stack blog platform with Role-Based Access Control (RBAC) built using:
 - MongoDB (Database)
 - React.js + TailwindCSS (Frontend)
 
-### Hosted Link: https://writora-client.vercel.app/
+### Hosted Link: https://writora.vercel.app/
 
 ---
 
